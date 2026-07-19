@@ -19,8 +19,8 @@ Follow these steps to run the project on your local machine:
 
 1. Clone this repository to your computer:
    ```bash
-   git clone https://github.com/your-username/AIAgencyOs.git
-   cd AIAgencyOs
+   git clone https://github.com/pufuki/MariaAI.git
+   cd MariaAI
    ```
 
 2. Install the project dependencies:
@@ -43,8 +43,7 @@ Now open http://localhost:3000 in your browser to view the application.
 
 ## Database Setup
 
-This project uses Supabase as the backend database. You can find the database schema and security policies in the migration folder:
-`supabase/migrations/20260713183320_create_agency_modules.sql`
+This project uses Supabase as the backend database. You can find the database schema and security policies in the migration folder
 
 To set up the database:
 1. Create a new project in Supabase.
